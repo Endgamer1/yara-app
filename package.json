@@ -1,0 +1,9 @@
+{
+  "name": "yara-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Yara sugar factory management app",
+  "scripts": {"dev": "vite", "build": "vite build", "preview": "vite preview"},
+  "dependencies": {"@supabase/supabase-js": "latest", "vite": "latest"},
+  "devDependencies": {}
+}
